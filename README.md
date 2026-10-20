@@ -14,6 +14,13 @@
 > 两份整瓶输入卡，以及 `readme.pdf`。持续修改的版本不在这里，此快照保持原样，
 > 请勿直接用于工程定案。
 
+> **实现范围说明：** 本库是个人摸索阶段整理的版本，子程序未考虑铺层角度转换，
+> 退化方式按层合板处理。结果仅供学习与对比，不宜直接用于工程判断。
+>
+> **Scope note:** This is a personal exploratory implementation. The UMAT does not
+> apply ply-angle transformation, and degradation follows a laminate-level model.
+> Results are for learning and comparison only, not for engineering decisions.
+
 ## Contents
 
 | Path | What it is |
